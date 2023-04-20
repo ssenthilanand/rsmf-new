@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact Us
-permalink: /contactus/
+permalink: contact/
 ---
 
 Office:

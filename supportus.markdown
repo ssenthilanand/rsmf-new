@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Support Us
-permalink: /support/
+permalink: support/
 ---
 
 
