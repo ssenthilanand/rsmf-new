@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact Us
-permalink: /rsmf-new/contact/
+permalink: contact/
 ---
 
 Office:
