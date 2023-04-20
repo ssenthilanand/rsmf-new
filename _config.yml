@@ -31,9 +31,9 @@ github_username:  jekyll
 
 # Build settings
 # remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-# theme: minima
+theme: minima
 #remote-theme: jekyll-theme-minimal
-remote-theme: mmistakes/minimal-mistakes
+# remote-theme: mmistakes/minimal-mistakes
 # remote_theme: pages-themes/minimal@v0.2.0
 plugins:
   - jekyll-feed
