@@ -21,13 +21,11 @@
 title: Rajalakshmi Srinivasan Memorial Foundation
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Website for Rajalakshmi Srinivasan Memorial Foundation.
 baseurl: "/rsmf-new" # the subpath of your site, e.g. /blog
 url: "https://ssenthilanand.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+# twitter_username: jekyllrb
+# github_username:  jekyll
 
 # Build settings
 # remote_theme: "mmistakes/minimal-mistakes@4.24.0"
@@ -36,10 +34,19 @@ theme: minima
 # remote-theme: mmistakes/minimal-mistakes
 # remote_theme: pages-themes/minimal@v0.2.0
 plugins:
-  - jekyll-feed
+  #- jekyll-feed
   - jekyll-include-cache
   - jekyll-remote-theme
 
+header_pages:
+  - index.markdown
+  - launch.markdown
+  - schools.markdown
+  - storycards.markdown
+  - people.markdown
+  - flier.markdown
+  - supportus.markdown
+  - contactus.markdown
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
