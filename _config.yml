@@ -27,6 +27,14 @@ url: "https://ssenthilanand.github.io" # the base hostname & protocol for your s
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
+kramdown:
+  # use Github Flavored Markdown
+  input: GFM
+  # do not replace newlines by <br>s
+  hard_wrap: false
+  # parse markdown inside block-level HTML tag
+  parse_block_html: true
+
 # Build settings
 # remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 theme: minima
