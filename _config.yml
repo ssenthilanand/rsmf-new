@@ -50,7 +50,7 @@ header_pages:
   - index.markdown
   - launch.markdown
   - schools.markdown
-  - storycards.markdown
+  - story.markdown
   - people.markdown
   - flier.markdown
   - supportus.markdown

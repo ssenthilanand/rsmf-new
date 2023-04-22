@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Story Cards
-permalink: storycards/
+permalink: story/
 ---
 <p style="text-align: center;"><strong>The Story Cards Program</strong></p>
 

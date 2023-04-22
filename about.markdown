@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: about
+permalink: about/
 ---
 
 <p style="text-align: center;"><strong>Rajalakshmi Srinivasan</strong></p>
