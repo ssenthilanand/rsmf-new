@@ -100,6 +100,9 @@ The English cards were appreciated in a Times of India news –
   <em>Our English Story Cards</em>
 </p>
 
+<p style="text-align:justify; text-justify: inter-word">During the Corona Pandemic when the schools were closed, there was considerable demand that the story cards be put online for children to read from their homes, and Katha Jharna in Hindi were put online - Click [here](https://rajifoundation.in/storycards/hindi/index.html) to view them.</p>
+
+<p style="text-align:justify; text-justify: inter-word">Click here to view some video feedbacks received on Kathai Aruvi from children in Tamil Nadu schools</p>
 
 **Future Plans for the Story Cards Program.**
 
