@@ -90,7 +90,7 @@ The English cards were appreciated in a Times of India news –
 
 <p style="text-align:justify; text-justify: inter-word">A few overseas groups have also reported that they were using the story cards for teaching language to children.</p>
 
-<p style="text-align:justify; text-justify: inter-word">Some short videos sent by the school children on using the cards are available here.</p>
+<!-- <p style="text-align:justify; text-justify: inter-word">Some short videos sent by the school children on using the cards are available here.</p> -->
 
 <br>
 <p align="center">
@@ -102,7 +102,16 @@ The English cards were appreciated in a Times of India news –
 
 <p style="text-align:justify; text-justify: inter-word">During the Corona Pandemic when the schools were closed, there was considerable demand that the story cards be put online for children to read from their homes, and Katha Jharna in Hindi were put online - Click [here](../storycards/hindi/index.html) to view them.</p>
 
-<p style="text-align:justify; text-justify: inter-word">Click here to view some video feedbacks received on Kathai Aruvi from children in Tamil Nadu schools</p>
+<!-- <p style="text-align:justify; text-justify: inter-word">Click here to view some video feedbacks received on Kathai Aruvi from children in Tamil Nadu schools</p> -->
+
+:-------------------------:|:-------------------------:
+![](../assets/images/story_cards_children_1.jpg)  |  ![](../assets/images/story_cards_children_2.jpg)
+![](../assets/images/story_cards_children_3.jpg)  |  ![](../assets/images/story_cards_children_4.jpg)
+![](../assets/images/story_cards_children_5.jpg)  |  ![](../assets/images/story_cards_children_6.jpg)
+![](../assets/images/story_cards_children_7.jpg)  | 
+
+<p style="text-align:center"><em>Some school children using the Story Cards in their schools</em></p>
+
 
 **Future Plans for the Story Cards Program.**
 
