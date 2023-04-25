@@ -54,6 +54,6 @@ Raji Foundation was formally launched on Wed. 28th May, 2014.
 
 <p><strong>Vote of Thanks:</strong> Ms. N Shanthi, Managing Trustee of the Foundation</p>
 
-Click <a href="https://rajifoundation.in/gallery.html">here</a> for some photographs taken on the occasion.
+Click <a href="http://rajifoundation.in/launch-gallery/">here</a> for some photographs taken on the occasion.
 
 
