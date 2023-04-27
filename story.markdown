@@ -53,7 +53,7 @@ The Story Cards are presently available in **Tamil, Hindi, English,Kannada, Mara
   <em>From a Tribal village in Rajasthan</em>
 </p>
 
- - <p style="text-align:justify; text-justify: inter-word">The collection of stories  in Hindi were shared online during the pandemic to facilitate learning of the children in the following link: [https://rajifoundation.in/storycards/index.html](https://rajifoundation.in/storycards/index.html)</p>
+ - <p style="text-align:justify; text-justify: inter-word">The collection of stories  in Hindi were shared online during the pandemic to facilitate learning of the children in the following link: [<span style="text-decoration: underline">https://rajifoundation.in/storycards/index.html</span>](https://rajifoundation.in/storycards/index.html)</p>
 
 <p style="text-align:justify; text-justify: inter-word">Several schools, including KV s and NGOs have reported that the link was extremely useful to them during the pandemic to interact with the children.</p>
  - <p style="text-align:justify; text-justify: inter-word">The Tamil story cards were distributed to a wide range of children’s homes and orphanages in Tamil Nadu in collaboration with Dept. of Social Defence, TN.</p>
@@ -63,10 +63,10 @@ The Story Cards are presently available in **Tamil, Hindi, English,Kannada, Mara
 **Feedback and Media Coverage**
 
 <p style="text-align:justify; text-justify: inter-word">There were articles written on ‘Kathai Aruvi’ story cards in leading newspapers ‘The Hindu’; ‘Economic Times’, 'Times of India'  and Tamil Dailies such as ‘Dinakaran’ and ‘Dinamani’ and a weekly magazine ‘Kalki’ in the year of its publication 2003. More recently Hindu published an article in the year 2019 about the Kannada story cards –</p>
-[https://www.thehindu.com/entertainment/art/telling-stories-putting-ideas/article30286560.ece](https://www.thehindu.com/entertainment/art/telling-stories-putting-ideas/article30286560.ece)
+[<span style="text-decoration: underline">https://www.thehindu.com/entertainment/art/telling-stories-putting-ideas/article30286560.ece</span>](https://www.thehindu.com/entertainment/art/telling-stories-putting-ideas/article30286560.ece)
 
 The English cards were appreciated in a Times of India news –
-[https://m.timesofindia.com/city/coimbatore/a-trump-card-for-every-child/articleshow/97836292.cms](https://m.timesofindia.com/city/coimbatore/a-trump-card-for-every-child/articleshow/97836292.cms)
+[<span style="text-decoration: underline">https://m.timesofindia.com/city/coimbatore/a-trump-card-for-every-child/articleshow/97836292.cms</span>](https://m.timesofindia.com/city/coimbatore/a-trump-card-for-every-child/articleshow/97836292.cms)
 <p style="text-align:justify; text-justify: inter-word">A research paper on impact of the Kathai Aruvi story cards in terms of the responses of the teachers and children in some of the districts of Tamil Nadu was published in 2007 issue of ‘Teachers Talk’, a journal published by TVS Education Society, Chennai.</p>
 
 

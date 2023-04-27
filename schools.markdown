@@ -10,7 +10,7 @@ permalink: schools/
  - <p style="text-align:justify; text-justify: inter-word">Enabling and assisting the children to take up careers, training or study programs of their choice, aptitude and abilities once they leave the school.</p>
 <p style="text-align:justify; text-justify: inter-word">Most of the interventions in schools by voluntary agencies, corporate entities etc belong to the first type, with relatively less efforts devoted to the second type of support, though there are a number of vocational training institutions, charities that fund college education etc active in this space.</p>
 
-<p style="text-align:justify; text-justify: inter-word">[Click here](../working/) for a detailed note on this subject where we have outlined a proposal for taking up the second type of intervention with schools in a systematic manner.</p>
+<p style="text-align:justify; text-justify: inter-word">[<span style="text-decoration: underline">Click here</span>](../working/) for a detailed note on this subject where we have outlined a proposal for taking up the second type of intervention with schools in a systematic manner.</p>
  
 <p style="text-align:justify; text-justify: inter-word">Below are  listed some activities that the Foundation has  pursued with some of the schools in the  Chennai region over time.Much of our efforts in this regard have been with the Avvai Home   and Girls' School in Adyar which is where Ms. Rajalakshmi had initiated an carried out her work during 2003-2013, and which our Foundation has attempted to take forward.</p>
 
@@ -55,10 +55,10 @@ permalink: schools/
 
 <strong>Tamil Translation of Dr. Muthulakshmi Reddy’s Autobiography</strong>
 <br>
-<p style="text-align:justify; text-justify: inter-word">The Autobiography of Dr. Muthulakshmi Reddy, the founder of Avvai Home, was first published in English in 1964, and is an authentic record of the multifaceted and rich life Dr.Reddy led as a true pioneer in many fields – covering all aspects such as personal, family, professional, scientific, educational, social, cultural and political. Though narrated as the story of one person, the book covers a breath taking canvass of events, personalities, relationships, institutions and movements spread over 6 decades and more - a period that has profoundly impacted on the destiny of our nation. The  [Tamil Translation](../dmrbook/) of this important work was carried out by Prof. S. Rajalakshmi during 2012-13, and was  published jointly by Avvai Home and our Foundation, with the support of Cre-A Publishers, and was [formally released](../avvaihome/) on 30th July 2014. </p>
+<p style="text-align:justify; text-justify: inter-word">The Autobiography of Dr. Muthulakshmi Reddy, the founder of Avvai Home, was first published in English in 1964, and is an authentic record of the multifaceted and rich life Dr.Reddy led as a true pioneer in many fields – covering all aspects such as personal, family, professional, scientific, educational, social, cultural and political. Though narrated as the story of one person, the book covers a breath taking canvass of events, personalities, relationships, institutions and movements spread over 6 decades and more - a period that has profoundly impacted on the destiny of our nation. The  [<span style="text-decoration: underline">Tamil Translation</span>](../dmrbook/) of this important work was carried out by Prof. S. Rajalakshmi during 2012-13, and was  published jointly by Avvai Home and our Foundation, with the support of Cre-A Publishers, and was [<span style="text-decoration: underline">formally released</span>](../avvaihome/) on 30th July 2014. </p>
 
 
 <p style="text-align: center;"><strong>Our Story Cards Program</strong></p>
 
-<p style="text-align:justify; text-justify: inter-word">Our program on Story Cards in multiple languages, detailed [here](../story/), arose out of our work with schools for the underprivileged children, and is primarily aimed at improving their reading and comprehension abilities.</p>
+<p style="text-align:justify; text-justify: inter-word">Our program on Story Cards in multiple languages, detailed [<span style="text-decoration: underline">here</span>](../story/), arose out of our work with schools for the underprivileged children, and is primarily aimed at improving their reading and comprehension abilities.</p>
 
