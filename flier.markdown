@@ -10,7 +10,7 @@ permalink: flier/
 
 <table style="width:100%">
  <tr>
-    <td style="width:50%">
+    <td style="width:50%; vertical-align: top">
     <strong>Rajalakshmi Srinivasan Memorial Foundation
 EDUCATE. EMPOWER.</strong>
 <br>
@@ -46,7 +46,7 @@ Telephone: 044-xxxxxxxx<br>
 Cell:  +91 9952028228<br>
 
     </td>
-    <td style="width:50%;font-size: 0.81em;">
+    <td style="width:50%;font-size: 0.81em; vertical-align: top">
     <strong>ராஜலட்சுமி சீனிவாசன் நினைவு அறக்கட்டளை
 கல்விக்கண் திற - செயல்திறனை வலுவூட்டு</strong>
 <br>
