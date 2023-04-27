@@ -82,3 +82,5 @@ Those who work with such schools normally try to supplement/complement the ongoi
 
 10. <p style="text-align:justify; text-justify: inter-word">In the second year of the  engagement, a new XI<sup>th</sup> standard batch would be taken up, along with the  old XI<sup>th</sup> standard batch  who would now be in their XII<sup>th</sup>.. .In  other words, at any time, other than the first year, one would be handling two batches in every school , one each from the XI<sup>th</sup> and  XII<sup>th</sup> classes.</p>
 
+
+<p style="text-align: center;"><a href="#" onClick="history.go(-1)">Go Back</a></p>

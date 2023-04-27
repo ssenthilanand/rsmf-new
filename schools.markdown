@@ -62,3 +62,5 @@ permalink: schools/
 
 <p style="text-align:justify; text-justify: inter-word">Our program on Story Cards in multiple languages, detailed [<span style="text-decoration: underline">here</span>](../story/), arose out of our work with schools for the underprivileged children, and is primarily aimed at improving their reading and comprehension abilities.</p>
 
+<p style="text-align: center;"><a href="#" onClick="history.go(-1)">Go Back</a></p>
+

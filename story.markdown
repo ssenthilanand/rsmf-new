@@ -131,3 +131,5 @@ The English cards were appreciated in a Times of India news –
 <p style="text-align:justify; text-justify: inter-word">Given the expanding demand for the cards in multiple languages from different parts of the country, the Foundation is no more in a position to keep the program going on its own resources, and we are seeking funding support from individuals and institutions for it.  Donations to the Foundation are tax exempt under the 80 G provisions of the Income Tax Rules, as well as we are approved to receive CSR funds by the Income Tax Department.</p>
 
 
+<p style="text-align: center;"><a href="#" onClick="history.go(-1)">Go Back</a></p>
+

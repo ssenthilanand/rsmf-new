@@ -57,3 +57,5 @@ Raji Foundation was formally launched on Wed. 28th May, 2014.
 Click <a style="text-decoration: underline" href="http://rajifoundation.in/launch-gallery/">here</a> for some photographs taken on the occasion.
 
 
+<p style="text-align: center;"><a href="#" onClick="history.go(-1)">Go Back</a></p>
+

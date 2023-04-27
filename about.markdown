@@ -18,3 +18,5 @@ permalink: about/
 
 <p style="text-align:justify; text-justify: inter-word">With her selfless service and genuine interest and concern for others, Raji touched the lives of everyone she came in contact with, without distinctions of class, caste, religion, and gender, and made a positive difference to those lives.</p>
 
+<p style="text-align: center;"><a href="#" onClick="history.go(-1)">Go Back</a></p>
+

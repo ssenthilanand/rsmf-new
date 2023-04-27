@@ -24,3 +24,5 @@ E-mail: rajalakshmifoundation <rsmf1944@gmail.com>
 | rubikadevi@gmail.com         | nstempom@gmail.com      | cnkrish@gmail.com     |
 
 
+<p style="text-align: center;"><a href="#" onClick="history.go(-1)">Go Back</a></p>
+

@@ -17,3 +17,6 @@ Being a purely voluntary effort, the Foundation needs many forms of support for 
 
 Donations to the Foundation are eligible for tax deductions under section 80G of the Income Tax Act. Also, the Foundation has certificate of eligibility for receiving CSR grants.
 
+
+<p style="text-align: center;"><a href="#" onClick="history.go(-1)">Go Back</a></p>
+

@@ -81,3 +81,7 @@ A-3 அட்டைகளில் அச்சிடப்பட்டு, ல�
     </td>
  </tr>
 </table>
+
+
+<p style="text-align: center;"><a href="#" onClick="history.go(-1)">Go Back</a></p>
+
