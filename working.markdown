@@ -10,12 +10,10 @@ permalink: working/
 
 
 <p style="text-align: center;"><strong>CONTENTS:</strong></p>
-<pre>
-I.    Interventions in schools for the poor
-II.   Present situation
-III.  The present proposal
-IV.   Some specifics of the proposal
-</pre>
+I.&nbsp;&nbsp;&nbsp;&nbsp;Interventions in schools for the poor<br>
+II.&nbsp;&nbsp;&nbsp;Present situation<br>
+III.&nbsp;&nbsp;The present proposal<br>
+IV.&nbsp;&nbsp;Some specifics of the proposal<br>
 <br>
 
 <p style="text-align: center;"><strong>I.    Interventions in schools for the poor</strong></p>
