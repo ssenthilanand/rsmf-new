@@ -46,7 +46,7 @@ Telephone: 044-xxxxxxxx<br>
 Cell:  +91 9952028228<br>
 
     </td>
-    <td style="width:50%;font-size: 0.815em;">
+    <td style="width:50%;font-size: 0.81em;">
     <strong>ராஜலட்சுமி சீனிவாசன் நினைவு அறக்கட்டளை
 கல்விக்கண் திற - செயல்திறனை வலுவூட்டு</strong>
 <br>
