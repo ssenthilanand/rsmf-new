@@ -53,7 +53,7 @@ The Story Cards are presently available in **Tamil, Hindi, English,Kannada, Mara
   <em>From a Tribal village in Rajasthan</em>
 </p>
 
- - <p style="text-align:justify; text-justify: inter-word">The collection of stories  in Hindi were shared online during the pandemic to facilitate learning of the children in the following link: [<span style="text-decoration: underline">https://rajifoundation.in/storycards/index.html</span>](https://rajifoundation.in/storycards/index.html)</p>
+ - <p style="text-align:justify; text-justify: inter-word">The collection of stories  in Hindi were shared online during the pandemic to facilitate learning of the children in the following link: [<span style="text-decoration: underline">https://rajifoundation.in/storycards/hindi/index.html</span>](storycards/hindi/index.html)</p>
 
 <p style="text-align:justify; text-justify: inter-word">Several schools, including KV s and NGOs have reported that the link was extremely useful to them during the pandemic to interact with the children.</p>
  - <p style="text-align:justify; text-justify: inter-word">The Tamil story cards were distributed to a wide range of children’s homes and orphanages in Tamil Nadu in collaboration with Dept. of Social Defence, TN.</p>
