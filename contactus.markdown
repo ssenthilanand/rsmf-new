@@ -13,7 +13,7 @@ Chromepet
 Chennai -- 600044  
 
 Ph. 044-xxxxxxx  
-E-mail: rajalakshmifoundation <rsmf1944@gmail.com>  
+E-mail: <rsmf1944@gmail.com>  
 
 <br>
 
