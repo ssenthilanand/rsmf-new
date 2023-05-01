@@ -53,11 +53,11 @@ The Story Cards are presently available in **Tamil, Hindi, English,Kannada, Mara
   <em>From a Tribal village in Rajasthan</em>
 </p>
 
- - <p style="text-align:justify; text-justify: inter-word">The collection of stories  in Hindi were shared online during the pandemic to facilitate learning of the children in the following link: [<span style="text-decoration: underline">https://rajifoundation.in/storycards/hindi/index.html</span>](storycards/hindi/index.html)</p>
+ <!-- - <p style="text-align:justify; text-justify: inter-word">The collection of stories  in Hindi were shared online during the pandemic to facilitate learning of the children in the following link: [<span style="text-decoration: underline">https://rajifoundation.in/storycards/hindi/index.html</span>](storycards/hindi/index.html)</p> -->
 
-<p style="text-align:justify; text-justify: inter-word">Several schools, including KV s and NGOs have reported that the link was extremely useful to them during the pandemic to interact with the children.</p>
+<!-- <p style="text-align:justify; text-justify: inter-word">Several schools, including KV s and NGOs have reported that the link was extremely useful to them during the pandemic to interact with the children.</p> -->
  - <p style="text-align:justify; text-justify: inter-word">The Tamil story cards were distributed to a wide range of children’s homes and orphanages in Tamil Nadu in collaboration with Dept. of Social Defence, TN.</p>
- - <p style="text-align:justify; text-justify: inter-word">In 2020-21 at the request of several educationists the stories were translated into English for the benefit of English learners. We propose to bring them out as soon as the required funds (around Rs. 12 Lakhs for 1000 sets of 100 cards each) are available.</p>
+ - <p style="text-align:justify; text-justify: inter-word">Recently, based on requests from several educationists, Kathai Aruvi was translated into English for the benefit of English learners. The English story cards called, A Cascade of Stories, was published in 2022</p>
 
 
 **Feedback and Media Coverage**
@@ -80,14 +80,17 @@ The English cards were appreciated in a Times of India news –
 
 <p style="text-align:justify; text-justify: inter-word"><em>“....During this lock down period schools have been closed for nearly two years. In these times it had become a challenge to connect children to reading and writing. Children were being promoted but they were unable to learn as per the levels in the classes. In such a situation we discussed with parents and started small community classes. In these community classes along with other teaching and learning material we used Katha Jharna too. These stories developed children's ability to read, discuss, express their views, original writing skills  in an unprecedented way. These cards are providing continuous support in  promoting children's reading and writing. With gratitude...”</em></p>
 
-<p style="text-align:justify; text-justify: inter-word">Bal Bhavan, Pune, has reported that they celebrated Katha Jharna day with children, organizing a wide range of creative activities around the stories.</p>
+<p style="text-align:justify; text-justify: inter-word">Govt. Schools in Salem dist., TN have reported that Kathai Aruvi is motivating the children to write their own stories, create models, puppets, props and enact the stories</p>
+
 <p style="text-align:justify; text-justify: inter-word">Several creative writing and storytelling workshops were conducted with children and teachers using the story cards over the years. In 2018, in collaboration with Sanchit Smriti, Lucknow, a series of storytelling workshops were conducted for KV teachers in the Northern Zone. The KV teachers responded enthusiastically to the Hindi the story cards, Katha Jharna.</p>
 
 :-------------------------:|:-------------------------:
-![](../assets/images/story_cards_7.jpg)  |  ![](../assets/images/story_cards_8.jpg)
+![](../assets/images/story_cards_7.jpg)  |  ![](../assets/images/story_cards_8.jpg) |
 
-<p style="text-align:center"><em>Reading Katha Jharna in a library, Nainital, Uttarakhand</em></p>
+![](../assets/images/story_cards_children_9.jpg)
 
+
+<br>
 <p style="text-align:justify; text-justify: inter-word">A few overseas groups have also reported that they were using the story cards for teaching language to children.</p>
 
 <!-- <p style="text-align:justify; text-justify: inter-word">Some short videos sent by the school children on using the cards are available here.</p> -->
@@ -97,18 +100,18 @@ The English cards were appreciated in a Times of India news –
   <img width="80%" src="../assets/images/story_cards_9.jpg">
   <br>
   <br>
-  <em>Our English Story Cards</em>
+  <em>English Story Cards</em>
 </p>
 
 <p style="text-align:justify; text-justify: inter-word">During the Corona Pandemic when the schools were closed, there was considerable demand that the story cards be put online for children to read from their homes, and Katha Jharna in Hindi were put online - Click [here](../storycards/hindi/index.html) to view them.</p>
 
 <!-- <p style="text-align:justify; text-justify: inter-word">Click here to view some video feedbacks received on Kathai Aruvi from children in Tamil Nadu schools</p> -->
 
+![](../assets/images/story_cards_children_1.jpg) 
+
 :-------------------------:|:-------------------------:
-![](../assets/images/story_cards_children_1.jpg)  |  ![](../assets/images/story_cards_children_2.jpg)
-![](../assets/images/story_cards_children_3.jpg)  |  ![](../assets/images/story_cards_children_4.jpg)
-![](../assets/images/story_cards_children_5.jpg)  |  ![](../assets/images/story_cards_children_6.jpg)
-![](../assets/images/story_cards_children_7.jpg)  | 
+![](../assets/images/story_cards_children_3.jpg)  |  ![](../assets/images/story_cards_children_7.jpg)
+ 
 
 <p style="text-align:center"><em>Some school children using the Story Cards in their schools</em></p>
 
@@ -126,9 +129,7 @@ The English cards were appreciated in a Times of India news –
 **Funding of the Story Card Program – request for  support**
 
 
-<p style="text-align:justify; text-justify: inter-word">Rajalakshmi Srinivasan Memorial Foundation  has taken up the tasks of the production and distribution of the Story Cards, and has played a leading role in reaching the story cards sets to rural schools throughout the country by networking with a wide range of NGOs and donors. One set of 100 laminated story cards costs around Rs.1400/- and an entire class can use the material at the same time. Thus an amount of around Rs.14 lakhs is needed for bringing out 1000 sets of story cards in one language, in addition to the  administrative costs for personnel, space, postage, packing and transport etc. involved.</p>
-<p style="text-align:justify; text-justify: inter-word">Most of the customers of these cards are NGOs, government or corporation schools who cannot make advance payments for their procurement. Persons associated with the Rajalakshmi Foundation and supportive of the Story Cards Program have been advancing money to meet the costs of production, and the users are charged at the cost price to recover the expenses incurred. In the case of institutional sponsorship (such as under CSR schemes) made to the Foundation for production and distribution of the Story Cards, the cards are distributed free of cost to the end users.</p>
-<p style="text-align:justify; text-justify: inter-word">Given the expanding demand for the cards in multiple languages from different parts of the country, the Foundation is no more in a position to keep the program going on its own resources, and we are seeking funding support from individuals and institutions for it.  Donations to the Foundation are tax exempt under the 80 G provisions of the Income Tax Rules, as well as we are approved to receive CSR funds by the Income Tax Department.</p>
+<p style="text-align:justify; text-justify: inter-word"> Rajalakshmi Srinivasan Memorial Foundation is bringing out the story cards and distributing the Story Cards to rural schools by networking with a wide range of NGOs and donors. But this is still far from what is required in a vast country like ours with thousands of schools. Given the expanding demand for the cards in multiple languages from different parts of the country, the Foundation needs additional resources, and we are seeking funding support from individuals and institutions. In order to reach one set of 100 laminated story cards to a school an amount of Rs.1400/ is needed and an entire class can use the material at the same time. An amount of 14 lakhs is needed for reaching 1000 schools. Donors can take up a whole cluster/block/district for distribution of the story cards sets to schools. Donations to the Foundation are tax exempt under the 80 G provisions of the Income Tax Rules, as well as we are approved to receive CSR funds by the Income Tax Department.</p>
 
 
 <p style="text-align: center;"><a href="#" onClick="history.go(-1)">Go Back</a></p>
