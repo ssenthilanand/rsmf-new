@@ -42,7 +42,7 @@ Chromepet , Chennai – 600044<br>
 <br>
 Website: www.rajifoundation.in<br>
 Email: rsmf1944@gmail.com<br>
-Telephone: 044-xxxxxxxx<br>  
+Telephone: 044-24922113<br>  
 Cell:  +91 9952028228<br>
 
     </td>
@@ -75,7 +75,7 @@ A-3 அட்டைகளில் அச்சிடப்பட்டு, ல�
 <br>
 இணைய தளம்: www.rajifoundation.in<br>
 மின்னஞ்சல்: rsmf1944@gmail.com<br>
-தொலைபேசி: 044- xxxxxxx<br>
+தொலைபேசி: 044-24922113<br>
 கை பேசி: +91 9952028228<br>             
 
     </td>
