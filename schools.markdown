@@ -35,7 +35,7 @@ permalink: schools/
 
 <strong>Setting up School Libraries</strong>
 <br>
-<p style="text-align:justify; text-justify: inter-word">We helped with refurbishing an shifting the library at the TVR High School from the old premises to the new premises in October 2015. Our Foundation has organised, classified and arranged the library at the new premises.  Mrs. Shanthi from the Foundation has been involved in setting up and running the Library  in Avvai Home from 2015 onwards.</p>
+<p style="text-align:justify; text-justify: inter-word">We helped with shifting the library at the TVR High School from the old premises to the new premises in October 2015. Our Foundation has organised, classified and arranged the library at the new premises.  Mrs. Shanthi from the Foundation has been involved in setting up and running the Library  in Avvai Home from 2015 onwards.</p>
 
 <strong>Story Telling Sessions for Class 6,7 and 8 Students</strong>
 <br>
