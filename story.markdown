@@ -59,6 +59,14 @@ The Story Cards are presently available in **Tamil, Hindi, English,Kannada, Mara
  - <p style="text-align:justify; text-justify: inter-word">The Tamil story cards were distributed to a wide range of children’s homes and orphanages in Tamil Nadu in collaboration with Dept. of Social Defence, TN.</p>
  - <p style="text-align:justify; text-justify: inter-word">Recently, based on requests from several educationists, Kathai Aruvi was translated into English for the benefit of English learners. The English story cards called, A Cascade of Stories, was published in 2022</p>
 
+<br>
+<p align="center">
+  <img width="80%" src="../assets/images/story_cards_9.jpg">
+  <br>
+  <br>
+  <em>English Story Cards</em>
+</p>
+
 
 **Feedback and Media Coverage**
 
@@ -95,13 +103,7 @@ The English cards were appreciated in a Times of India news –
 
 <!-- <p style="text-align:justify; text-justify: inter-word">Some short videos sent by the school children on using the cards are available here.</p> -->
 
-<br>
-<p align="center">
-  <img width="80%" src="../assets/images/story_cards_9.jpg">
-  <br>
-  <br>
-  <em>English Story Cards</em>
-</p>
+
 
 <p style="text-align:justify; text-justify: inter-word">During the Corona Pandemic when the schools were closed, there was considerable demand that the story cards be put online for children to read from their homes, and Katha Jharna in Hindi were put online - Click [here](../storycards/hindi/index.html) to view them.</p>
 
